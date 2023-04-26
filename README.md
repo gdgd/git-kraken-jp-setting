@@ -1,6 +1,6 @@
-# GitKrakenの日本語化設定
+# GitKrakenの日本語化ファイル
 
-以下にリネームして配置。
+以下にリネームして配置。・・・の前にバックアップは取っておくと良き。
 ```
 \AppData\Local\gitkraken\app-{バージョン}\resources\app.asar.unpacked\src
 ```
